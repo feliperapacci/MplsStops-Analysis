@@ -1,10 +1,12 @@
 # Minneapolis Police Stops (MplsStops) Exploration
-
-## Minneapolis Police Stop Data Analysis
-
+### Overview
 This project analyzes the 2017 Minneapolis Police Department stop dataset using Python. 
 
 The goal is to pair statistical tools such as confidence interval modeling and hypothesis testing with data science technologies such as Python with pandas, statsmodels, and matplotlib to extract impactful insights from real data.
+
+### View the Analysis
+
+A thoroughly annotated Jupyter Notebook can be accessed in [MplsStopsExploration.ipynb](https://github.com/feliperapacci/MplsStops-Analysis/blob/main/MplsStopsExploration.ipynb).
 
 ### Running locally
 
