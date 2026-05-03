@@ -1,10 +1,21 @@
-# MplsStops-Analysis
+# Minneapolis Police Stops (MplsStops) Exploration
 
 ## Minneapolis Police Stop Data Analysis
 
-This project analyzes the 2017 Minneapolis Police Department stop dataset using Python. The goal is to explore stop types, search/citation outcomes, and possible relationships between race, stop type, and police stop outcomes.
+This project analyzes the 2017 Minneapolis Police Department stop dataset using Python. 
 
-### Setting up the environment
+The goal is to pair statistical tools such as confidence interval modeling and hypothesis testing with data science technologies such as Python with pandas, statsmodels, and matplotlib to extract impactful insights from real data.
+
+### Running locally
+
+#### Linux
+
+- clone the repository `git clone git@github.com:feliperapacci/MplsStops-Analysis.git`
+- Create and activate a virtual environment
+- Install required packages `python -m pip install -r requirements.txt`
+- Open the project with Jupyter Notebook `jupyter notebook`
+
+#### Windows/VSCode
 
 - clone the repo into a folder
 - run `py -m venv .venv` to create the virtual environment
@@ -12,3 +23,5 @@ This project analyzes the 2017 Minneapolis Police Department stop dataset using 
 - install packages by running `py -m pip install -r requirements.txt`
 - press **Ctrl + Shift + P** and search for **Python: Select Interpreter**
   - Choose the interpreter inside the project folder: **.venv\Scripts\python.exe**
+
+
